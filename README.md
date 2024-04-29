@@ -4,8 +4,8 @@
 <h3>프로젝트 기간</h3>
 <p>2022.09.19~2022.12.19</p>
 <h3>사용 툴</h3>
- <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="css3" width="40" height="40"/></a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html5" width="40" height="40"/></a>
+ <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="css3" width="40" height="40"/></a>
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/></a>
 <img src="https://github.com/dusdn3391/cheongkwanjang/assets/141704712/82ab0845-516d-480b-a665-81c2fa1b717f" alt="main">
 <img src="https://github.com/dusdn3391/cheongkwanjang/assets/141704712/f3198493-d75a-412d-a8d9-b83852fe5137" alt="sub1">
